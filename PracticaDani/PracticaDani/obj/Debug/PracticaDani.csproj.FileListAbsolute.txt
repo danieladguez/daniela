@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\bin\Debug\PracticaDani.exe.config
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\bin\Debug\PracticaDani.exe
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\bin\Debug\PracticaDani.pdb
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\obj\Debug\PracticaDani.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\obj\Debug\PracticaDani.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\obj\Debug\PracticaDani.exe
+C:\Users\danie\source\repos\PracticaDani\PracticaDani\obj\Debug\PracticaDani.pdb
